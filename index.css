@@ -1,0 +1,168 @@
+.container-fluid{
+  margin-right: 50px;
+}
+.home:hover{
+ background-color: blue;
+}
+
+.insta:hover{
+color: blanchedalmond;
+}
+
+.image1{
+    border-radius:100%;
+    height: 400px;
+    width: 400px;
+    box-shadow: 20PX 20PX 20PX 4PX rgb(92, 57, 53);
+    
+}
+#alignimg{
+  margin-top: 300px;
+}
+
+.progress{
+  height: 50px;
+  width: auto;
+  border-radius: 60px ;
+ }
+.skill-sec{
+  background-color: white;
+  border-radius: 30PX;
+  width: 70%;
+  box-shadow: 1PX 20PX 20PX 1PX rgb(92, 57, 53);
+  
+}
+#project{
+  background-color:white;
+  box-shadow: 20PX 20PX 20PX 4PX rgb(92, 57, 53);
+  height: auto;
+  width: 80%;
+  border-width: 80px;
+  border-radius: 30px;
+}
+.Project-contain{
+  padding-top: 80px;
+}
+.skil-container{
+  padding-top: 80px;
+}
+
+.col-3{
+  padding-left: 25px;
+  background-color:  rgb(241, 137, 111);
+  border-radius: 30px;
+  border: 4px solid black;
+  height: 100%px;
+  width: 300px;
+  color: white;
+  text-underline-position: above;
+}
+.col-3:hover{
+  background-color: gray;
+}
+.con-sec{
+  /* background-color: ; */
+  height: 600px;
+  width: 90%;
+
+}
+.col-5{
+  background-color:white;
+    width: 35%;
+  height: 550px;
+  
+}
+.col-7{
+  background-color:white;
+  width: 65%;
+  height: 550px;
+  
+}
+#contact-col1{
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 20px;
+  height: 600px;
+
+}
+
+#contact-col2{
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  height: 600px;
+
+}
+.list-con{
+  width: 40%;
+}
+.contact-img{
+  width: 100%;
+  height: 380px;
+
+}
+.form-control{
+  width: 80%;
+  height: 60px ;
+  background-color:  rgb(241, 137, 111);
+  border-radius: 15px;
+  border: none;
+  box-shadow:  8PX 8PX 10PX 1PX;
+}
+textarea{
+  background-color:  rgb(241, 137, 111);
+  border-radius: 15px;
+  box-shadow:  8PX 8PX 10PX 1PX;
+  height: auto;
+  border: none;
+}
+
+.btn:hover{
+  color: white;
+}
+.diler{
+  height: 60px;
+  width: 60px;
+  /* margin-left: 90px; */
+  
+}
+.diler:hover{
+background-color: darkslategrey;
+
+}
+.location{
+  height: 60px;
+  width: 60px;
+}
+.location:hover{
+  background-color: darkslategrey;
+}
+.mailbox{
+  height: 60px;
+  width: 60px;
+  margin-left: 5px;
+}
+.mailbox:hover{
+  background-color: darkslategrey;
+
+}
+.mail-div{
+  width: 33%;
+  /* background-color: rgb(200, 89, 81); */
+}
+.social-con{
+  height: 20px;
+  width: 200px;
+}
+.socialbutn{
+  width: 70px;
+  height: 50px;
+  border: none;
+  background-color: white;
+}
+
+
+.fa-brands:hover{
+  background-color: black;
+  color: white;
+}
+
+
